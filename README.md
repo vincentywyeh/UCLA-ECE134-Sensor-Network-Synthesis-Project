@@ -1,1 +1,2 @@
 # UCLA-ECE134-Sensor-Network-Synthesis-Project
+Python graph theory project developed with the help of my teammate, Kellen Cheng. Part one of the project concerns with creating an optimal sensor placement that allows for good connectivity. Part two of the project involves creating drone delivery paths that optimizes distance under fuel constraints. For a more detailed description, please refer to the presentation PDF.
